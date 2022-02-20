@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Antonio Zago
 
 
-- 🔭 Estou trabalhando como Full Stack
+- 🔭 Estou trabalhando como Desenvolvedor SQL Jr
 - 🌱 Faculdade de Banco de Dados, Fatec Jessen Vidal
 - 📫 Email: antoniozagodev@gmail.com
 - 👔 Linkedin: https://www.linkedin.com/in/antonio-zago-24230b206/
